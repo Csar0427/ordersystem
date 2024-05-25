@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "marordering",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
